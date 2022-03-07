@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Awa0199
+- 👀 I’m interested in statistics
+- 🌱 I’m currently learning data science
